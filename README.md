@@ -1,8 +1,13 @@
 ## Journey to learn haskell 
 Refering the book [lyah](https://learnyouahaskell.github.io/chapters.html)<br>
+- ####  set up in ubuntu -
+`sudo apt update && sudo apt upgrade -y`<br><br>
+`sudo apt install build-essential curl libffi-dev libgmp-dev libncurses-dev libtinfo-dev -y`<br><br>
+`curl --proto '=https' --tlsv1.2 -sSf https://get-ghcup.haskell.org | sh`<br><br>
+`ghc --version`<br><br>
 - To do -->
- - [ ] [Introduction](https://learnyouahaskell.github.io/introduction.html)
- - [ ] [Starting out](https://learnyouahaskell.github.io/starting-out.html)
+ - [x] [Introduction](https://learnyouahaskell.github.io/introduction.html)
+ - [x] [Starting out](https://learnyouahaskell.github.io/starting-out.html)
  - [ ] [Types and typeclass](https://learnyouahaskell.github.io/types-and-typeclasses.html)
  - [ ] [Syntax in function](https://learnyouahaskell.github.io/syntax-in-functions.html)
  - [ ] [Recursion](https://learnyouahaskell.github.io/recursion.html)
