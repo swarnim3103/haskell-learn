@@ -1,5 +1,5 @@
 ### Journey to learn haskell 
-Refering the book [lyah](https://learnyouahaskell.github.io/chapters.html)
+Refering the book [lyah](https://learnyouahaskell.github.io/chapters.html)<br>
 To do -->
 - [ ] [Introduction](https://learnyouahaskell.github.io/introduction.html)
 - [ ] [Starting out](https://learnyouahaskell.github.io/starting-out.html)
